@@ -1,0 +1,23 @@
+# backup files
+*~
+*.bak
+*.bck
+*.kicad_pcb-bak
+
+*.net
+*.cmp
+
+# gerber files
+*.gbl
+*.gbs
+*.gbo
+*.gml
+*.gtl
+*.gts
+*.gto
+*.drl
+
+Z8S180.txt
+
+# BOM temp files
+*.xml
