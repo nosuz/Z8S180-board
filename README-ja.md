@@ -1,22 +1,22 @@
-# Z80(Z8S180) CPU board
+# Z8S180を使用したZ80マイコンボード
 
-This board is designed for running CP/M.
+CP/Mを動かすために設計したマイコンボードです。
 
 |||
 |:--|:-|
 |CPU|Z8S180|
-|Memory Size|128KiB|
-|CPU Clock|Max. 16MHz|
-|Interface|USB|
+|メモリ容量|128KiB|
+|クロック周波数|最大16MHz|
+|インターフェイス|USB|
 
-The USB port is used as a interface to connect with the subsystem that controles a console and disk drives.
+USBは、コンソールとディスクドライブとなるパソコンとのインターフェイスとして使用します。
 
-|File name|Contents|
+|ファイル名|内容|
 |:---------|:---|
-|Z8S180.pdf|Circuit drawing(PDF)|
-|Z8S180.xlsx|BOM list(Excel)|
-|Z8S180.zip|zipped Gerber files|
+|Z8S180.pdf|回路図(PDF)|
+|Z8S180.xlsx|部品リスト(Excel)|
+|Z8S180.zip|ガーバーファイル|
 
-## References
+## 参照
 
 [Z80マイコンボードの製作](https://tech.nosuz.jp/2016/08/z80-cpu-borad/)
