@@ -2,11 +2,11 @@
 
 This board is designed for running CP/M.
 
-|||
-|:--|:-|
+|item|spec|
+|:--|:--|
 |CPU|Z8S180|
-|Memory Size|128KiB|
 |CPU Clock|Max. 16MHz|
+|Memory|128KiB|
 |Interface|USB|
 
 The USB port is used as a interface to connect with the subsystem that controles a console and disk drives.
