@@ -1,11 +1,23 @@
-# backup files
-*~
+# For PCBs designed using KiCad: http://www.kicad-pcb.org/
+
+# Temporary files
+*.000
 *.bak
 *.bck
 *.kicad_pcb-bak
+*~
+_autosave-*
+*.tmp
 
+# Netlist files (exported from Eeschema)
 *.net
-*.cmp
+
+# Autorouter files (exported from Pcbnew)
+.dsn
+
+# Exported BOM files
+*.xml
+*.csv
 
 # gerber files
 *.gbl
@@ -18,6 +30,3 @@
 *.drl
 
 Z8S180.txt
-
-# BOM temp files
-*.xml
