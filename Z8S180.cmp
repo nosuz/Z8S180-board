@@ -1,0 +1,267 @@
+Cmp-Mod V01 Created by PcbNew   date = 2015年09月04日 10時00分13秒
+
+BeginCmp
+TimeStamp = 55C29F65
+Path = /55E8B331
+Reference = C1;
+ValeurCmp = 47pF;
+IdModule  = nosuz:C_2012;
+EndCmp
+
+BeginCmp
+TimeStamp = 55C29F6B
+Path = /55E8B332
+Reference = C2;
+ValeurCmp = 47pF;
+IdModule  = nosuz:C_2012;
+EndCmp
+
+BeginCmp
+TimeStamp = 55C29F71
+Path = /55E8B333
+Reference = C3;
+ValeurCmp = 0.1uF;
+IdModule  = nosuz:C_2012;
+EndCmp
+
+BeginCmp
+TimeStamp = 55C29F77
+Path = /55E8B334
+Reference = C4;
+ValeurCmp = 0.1uF;
+IdModule  = nosuz:C_2012;
+EndCmp
+
+BeginCmp
+TimeStamp = 55C29F7D
+Path = /55E8BF2F
+Reference = C5;
+ValeurCmp = 0.1u;
+IdModule  = nosuz:C_2012;
+EndCmp
+
+BeginCmp
+TimeStamp = 55C29F83
+Path = /55E8BF30
+Reference = C6;
+ValeurCmp = 0.1u;
+IdModule  = nosuz:C_2012;
+EndCmp
+
+BeginCmp
+TimeStamp = 55C29F89
+Path = /55E8BF31
+Reference = C7;
+ValeurCmp = 0.1u;
+IdModule  = nosuz:C_2012;
+EndCmp
+
+BeginCmp
+TimeStamp = 55C29F8F
+Path = /55E8BF32
+Reference = C8;
+ValeurCmp = 0.1u;
+IdModule  = nosuz:C_2012;
+EndCmp
+
+BeginCmp
+TimeStamp = 55C29F95
+Path = /55E8BF33
+Reference = C9;
+ValeurCmp = 0.1u;
+IdModule  = nosuz:C_2012;
+EndCmp
+
+BeginCmp
+TimeStamp = 55C29FA2
+Path = /55E8B337
+Reference = CON1;
+ValeurCmp = USB-micro-B;
+IdModule  = nosuz:USB-micro-B_Hirose;
+EndCmp
+
+BeginCmp
+TimeStamp = 55C29FAC
+Path = /55E8BF23
+Reference = CON2;
+ValeurCmp = CONN_AVR_ISP;
+IdModule  = nosuz:AVR_ISP_2x03;
+EndCmp
+
+BeginCmp
+TimeStamp = 55C29FB2
+Path = /55E8B335
+Reference = CP1;
+ValeurCmp = 4.7uF;
+IdModule  = nosuz:CP_SMD_D5;
+EndCmp
+
+BeginCmp
+TimeStamp = 55C2A006
+Path = /55E8BF15
+Reference = CPU1;
+ValeurCmp = Z8S180;
+IdModule  = nosuz:QFP80_Z8S180;
+EndCmp
+
+BeginCmp
+TimeStamp = 55C2A00C
+Path = /55E8BF2C
+Reference = D1;
+ValeurCmp = OSYL1608;
+IdModule  = nosuz:1608_OSYL1608;
+EndCmp
+
+BeginCmp
+TimeStamp = 55C2A012
+Path = /55E919D3
+Reference = D2;
+ValeurCmp = OSHR1608;
+IdModule  = nosuz:1608_OSxx1608;
+EndCmp
+
+BeginCmp
+TimeStamp = 55C2A018
+Path = /55E8BF24
+Reference = D3;
+ValeurCmp = OSYG1608;
+IdModule  = nosuz:1608_OSxx1608;
+EndCmp
+
+BeginCmp
+TimeStamp = 55C2A080
+Path = /55E8BF16
+Reference = MEM1;
+ValeurCmp = M68AF127B;
+IdModule  = nosuz:SO32_STM_M68AF127B;
+EndCmp
+
+BeginCmp
+TimeStamp = 55C2A08C
+Path = /55E8BF1C
+Reference = OC1;
+ValeurCmp = SG8002DC;
+IdModule  = nosuz:DIP8_2227MC-08;
+EndCmp
+
+BeginCmp
+TimeStamp = 55C2A099
+Path = /55E8B32F
+Reference = R1;
+ValeurCmp = 27R;
+IdModule  = nosuz:R_1608;
+EndCmp
+
+BeginCmp
+TimeStamp = 55C2A09F
+Path = /55E8B330
+Reference = R2;
+ValeurCmp = 27R;
+IdModule  = nosuz:R_1608;
+EndCmp
+
+BeginCmp
+TimeStamp = 55C2A0A5
+Path = /55E8BF2D
+Reference = R3;
+ValeurCmp = >6.2k;
+IdModule  = nosuz:R_1608;
+EndCmp
+
+BeginCmp
+TimeStamp = 55C2A0C3
+Path = /55E8BF38
+Reference = R8;
+ValeurCmp = >4.2k;
+IdModule  = nosuz:R_1608;
+EndCmp
+
+BeginCmp
+TimeStamp = 55C2A0EF
+Path = /55E8BF3E
+Reference = SW1;
+ValeurCmp = Tactile_SW_4P;
+IdModule  = nosuz:TSHA-T-2.5B2-19E;
+EndCmp
+
+BeginCmp
+TimeStamp = 55C3275E
+Path = /55E8BF42
+Reference = C10;
+ValeurCmp = 0.1u;
+IdModule  = nosuz:C_2012;
+EndCmp
+
+BeginCmp
+TimeStamp = 55C34FDF
+Path = /55E8DC5C
+Reference = IMG1;
+ValeurCmp = BITMAP_IMAGE;
+IdModule  = nosuz:Icon_Nosuz;
+EndCmp
+
+BeginCmp
+TimeStamp = 55E8CBC1
+Path = /55E8BF37
+Reference = D4;
+ValeurCmp = OSBL1608;
+IdModule  = nosuz:1608_OSxx1608;
+EndCmp
+
+BeginCmp
+TimeStamp = 55E8CBD0
+Path = /55E91AC0
+Reference = R4;
+ValeurCmp = R;
+IdModule  = nosuz:R_1608;
+EndCmp
+
+BeginCmp
+TimeStamp = 55E8CBD6
+Path = /55E8BF25
+Reference = R5;
+ValeurCmp = >3.1k;
+IdModule  = nosuz:R_1608;
+EndCmp
+
+BeginCmp
+TimeStamp = 55E8CBDC
+Path = /55E8BF3B
+Reference = R6;
+ValeurCmp = 10k;
+IdModule  = nosuz:R_1608;
+EndCmp
+
+BeginCmp
+TimeStamp = 55E8CBE2
+Path = /55E8BF27
+Reference = R7;
+ValeurCmp = 10k;
+IdModule  = nosuz:R_1608;
+EndCmp
+
+BeginCmp
+TimeStamp = 55E8CBFE
+Path = /55E8DD31
+Reference = U1;
+ValeurCmp = FT240XS;
+IdModule  = nosuz:SSOP-24_FT240XS;
+EndCmp
+
+BeginCmp
+TimeStamp = 55C2A05C
+Path = /55E8BF40
+Reference = IC1;
+ValeurCmp = ATMEGA64A-A;
+IdModule  = nosuz:QFP-64_14x14_Atmel64A-1.00;
+EndCmp
+
+BeginCmp
+TimeStamp = 55E8CBCA
+Path = /55E94F9D
+Reference = P1;
+ValeurCmp = CONN_01X05;
+IdModule  = nosuz:Pin_Header_Straight_1x05;
+EndCmp
+
+EndListe
